@@ -1,10 +1,10 @@
-package com.apicars.cars;
+package com.carlapi.carsapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CarsApplicationTests {
+class CarsapiApplicationTests {
 
 	@Test
 	void contextLoads() {
